@@ -1,29 +1,6 @@
 # Brainthera: AI-Powered Mental Health Support on Sonic 🧠⛓️
 
-[![Sonic Token](https://img.shields.io/badge/Sonic-Integration-purple.svg)]()
-[![Zerepy](https://img.shields.io/badge/Zerepy-AI_Agent-blue.svg)]()
-[![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-green.svg)]()
-[![Crisis Response](https://img.shields.io/badge/Crisis-Detection-red.svg)]()
-[![Smart Contract](https://img.shields.io/badge/Sonic_Blaze-Testnet-orange.svg)]()
-
 > An autonomous AI therapist powered by advanced NLP and emotional intelligence, providing personalized mental health support while ensuring privacy through blockchain technology. Built on Sonic Blaze Testnet with Zerepy agents.
-
-## 📸 Project Showcase
-
-<div align="center">
-  <img src="https://i.imghippo.com/files/uath6507iKU.png" alt="Brainthera Dashboard" width="45%" />
-  <img src="https://i.imghippo.com/files/CBbx8767gPg.png" alt="Therapy Session" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://i.imghippo.com/files/RHud5372Iq.png" alt="Progress Tracking" width="45%" />
-  <img src="https://i.imghippo.com/files/FBU1874HaE.png" alt="Mental Health Analytics" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://i.imghippo.com/files/Su5718PoM.png" alt="AI Interaction" width="45%" />
-  <img src="https://i.imghippo.com/files/Q1022fI.png" alt="Therapeutic Features" width="45%" />
-</div>
 
 ## 🌟 Key Features
 
